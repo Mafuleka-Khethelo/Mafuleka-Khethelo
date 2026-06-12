@@ -2,78 +2,70 @@
 
 # Lungelo Mafuleka Khethelo
 
-### AI Researcher • Software Engineer • Computer Science Student • Future Innovator
+### Artificial Intelligence Researcher • Software Engineer • Computer Science Student • Building the Future of Biometric Security
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Building+the+Future+with+AI;Creator+of+PulseLock;Machine+Learning+Enthusiast;Java+Developer;Researching+Contactless+Biometrics" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1200&color=00C2FF&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+Researcher;Creator+of+PulseLock;Machine+Learning+Enthusiast;Java+%7C+Python+Developer;Researching+Next-Generation+Biometric+Authentication;Building+Technology+That+Makes+an+Impact" />
 
 <br>
 
-![](https://komarev.com/ghpvc/?username=Mafuleka-Khethelo\&color=blue\&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=Mafuleka-Khethelo\&style=for-the-badge\&color=0e75b6)
 
 </div>
 
 ---
 
-# PROFILE
+# About Me
 
-Computer Science student with a passion for Artificial Intelligence, Biometrics, Machine Learning and Software Engineering.
+I am a **final-year Computer Science student** with a deep passion for **Artificial Intelligence, Machine Learning, Biometrics, Cybersecurity, and Software Engineering**.
 
-Currently researching **PulseLock**, an AI-powered contactless biometric authentication system designed to redefine secure authentication using radar signal processing and intelligent algorithms.
+My goal is to bridge the gap between **academic research and real-world innovation** by building intelligent systems that improve security and everyday life.
 
-Focused on building solutions that combine research with practical software engineering.
+I am currently developing **PulseLock**, a next-generation contactless biometric authentication system that combines **radar signal processing, physiological biometrics, and AI** to redefine secure authentication.
 
 ---
 
-# CURRENT FOCUS
+# Current Focus
 
-```
+```text
 Artificial Intelligence
 Machine Learning
 Deep Learning
 Biometric Authentication
+Signal Processing
 Cybersecurity
-Radar Signal Processing
 Research & Innovation
+Enterprise Software Development
 ```
 
 ---
 
-# FLAGSHIP PROJECT
+# Flagship Project
+
+<div align="center">
 
 ## PulseLock
 
-> AI-powered contactless biometric authentication system
+### AI-Powered Contactless Biometric Authentication
 
-### Research Areas
+*"Redefining authentication through intelligent biometric sensing."*
+
+</div>
+
+### Research Domains
 
 * Contactless Biometrics
-* Radar Signal Analysis
+* Radar Signal Processing
+* Artificial Intelligence
 * Deep Learning
-* Physiological Signal Recognition
+* Physiological Signal Analysis
 * Security & Privacy
-* Human Authentication
+* Human Authentication Systems
 
-Current Status
+# Technology Stack
 
-```
-Research ████████████░░░░ 70%
+## Programming Languages
 
-Literature Review ██████████████░░ 85%
-
-Architecture ███████████░░░░░ 65%
-
-Machine Learning ██████░░░░░░░░░ 35%
-
-Prototype ███░░░░░░░░░░░░░░ 15%
-```
-
----
-
-# TECH STACK
-
-## Languages
-
-<p align="left">
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=java,python,kotlin,javascript,html,css,mysql"/>
 
@@ -81,11 +73,11 @@ Prototype ███░░░░░░░░░░░░░░ 15%
 
 ---
 
-## AI & Data Science
+## Artificial Intelligence & Data Science
 
-<p>
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=tensorflow"/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
 
 </p>
 
@@ -93,12 +85,14 @@ Prototype ███░░░░░░░░░░░░░░ 15%
 * Data Analysis
 * Feature Engineering
 * Pattern Recognition
+* Data Preprocessing
+* Research Analytics
 
 ---
 
-## Backend
+## Backend Development
 
-<p>
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=java,spring"/>
 
@@ -107,14 +101,30 @@ Prototype ███░░░░░░░░░░░░░░ 15%
 * Java EE
 * Servlets
 * JSP
-* EJB
-* REST APIs
+* Enterprise JavaBeans (EJB)
+* RESTful APIs
+* MVC Architecture
 
 ---
 
-## Tools
+## Databases
 
-<p>
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql,sqlite"/>
+
+</p>
+
+* Oracle SQL
+* Derby Database
+* Database Design
+* Query Optimization
+
+---
+
+## Development Tools
+
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman"/>
 
@@ -122,7 +132,7 @@ Prototype ███░░░░░░░░░░░░░░ 15%
 
 ---
 
-# GITHUB ANALYTICS
+# GitHub Analytics
 
 <div align="center">
 
@@ -132,17 +142,17 @@ Prototype ███░░░░░░░░░░░░░░ 15%
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mafuleka-Khethelo&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mafuleka-Khethelo&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# CONTRIBUTION GRAPH
+# Contribution Activity
 
 <div align="center">
 
@@ -152,77 +162,60 @@ Prototype ███░░░░░░░░░░░░░░ 15%
 
 ---
 
-# ACHIEVEMENTS
+# Featured Projects
 
-* AI Programme Participant
-* Computer Science Final Year Student
-* PulseLock Research Founder
-* Active Open Source Learner
-* Daily Research Contributor
-* Future AI Security Researcher
-
----
-
-# CURRENT LEARNING PATH
-
-```
-Java                ████████████████████
-
-Python              ████████████████
-
-Machine Learning    ███████████░░░░░
-
-Deep Learning       ███████░░░░░░░░░
-
-Computer Vision     █████░░░░░░░░░░░
-
-Research            █████████████████
-```
+| Project                             | Description                                       | Status    |
+| ----------------------------------- | ------------------------------------------------- | --------- |
+| **PulseLock**                       | AI-powered contactless biometric authentication   | Research  |
+| **AI Roommate Finder**              | Intelligent roommate recommendation platform      | Completed |
+| **Java EE Enterprise Applications** | Enterprise web systems using Servlets, JSP & EJB  | Completed |
+| **Python Data Analytics**           | Data analysis and visualization projects          | Ongoing   |
+| **Android Development**             | Mobile applications with Kotlin & Jetpack Compose | Ongoing   |
 
 ---
 
-# FEATURED PROJECTS
-
-| Project              | Description                                   |
-| -------------------- | --------------------------------------------- |
-| PulseLock            | Contactless biometric authentication using AI |
-| AI Roommate Finder   | Intelligent roommate recommendation system    |
-| Java EE Applications | Enterprise web applications                   |
-| Data Analytics       | Python-based data analysis projects           |
-| Android Development  | Kotlin & Jetpack Compose applications         |
-
----
-
-# RESEARCH INTERESTS
+# Research Interests
 
 * Artificial Intelligence
-* Biometrics
 * Machine Learning
+* Biometrics
+* Contactless Authentication
 * Signal Processing
 * Cybersecurity
-* Healthcare AI
-* Authentication Systems
 * Human Computer Interaction
+* Healthcare AI
+* Intelligent Security Systems
 
 ---
 
-# CONNECT
 
-Email
+# Professional Goals
 
-```
+* Publish research in Artificial Intelligence and Biometrics
+* Build PulseLock into a production-ready authentication platform
+* Contribute to open-source AI projects
+* Advance secure and intelligent authentication technologies
+* Pursue innovation that creates real-world impact
+
+---
+
+# Connect
+
+### Email
+
+```text
 mafulekalungelo5@gmail.com
 ```
 
-GitHub
+### GitHub
 
-```
-github.com/Mafuleka-Khethelo
+```text
+https://github.com/Mafuleka-Khethelo
 ```
 
-LinkedIn
+### LinkedIn
 
-```
+```text
 Coming Soon
 ```
 
@@ -230,6 +223,8 @@ Coming Soon
 
 <div align="center">
 
-## "Building the future, one line of code and one research paper at a time."
+## Building the future through Artificial Intelligence, research, and software engineering.
+
+### Every line of code is a step toward innovation.
 
 </div>
