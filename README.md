@@ -204,7 +204,7 @@ Enterprise Software Development
 ### Email
 
 ```text
-mafulekalungelo5@gmail.com
+mkgithubcom@gmail.com
 ```
 
 ### GitHub
@@ -216,7 +216,7 @@ https://github.com/Mafuleka-Khethelo
 ### LinkedIn
 
 ```text
-Coming Soon
+https://www.linkedin.com/in/khethelo-mafuleka-0b5196242/
 ```
 
 ---
