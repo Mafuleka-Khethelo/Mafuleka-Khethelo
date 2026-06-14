@@ -20,7 +20,7 @@ I am a **final-year Computer Science student** with a deep passion for **Artific
 
 My goal is to bridge the gap between **academic research and real-world innovation** by building intelligent systems that improve security and everyday life.
 
-I am currently developing **PulseLock**, a next-generation contactless biometric authentication system that combines **radar signal processing, physiological biometrics, and AI** to redefine secure authentication.
+I am currently developing **PulseLock**, a next-generation contactless biometric authentication 
 
 ---
 
@@ -43,17 +43,7 @@ Enterprise Software Development
 
 <div align="center">
 
-## PulseLock
-
-### AI-Powered Contactless Biometric Authentication
-
-*"Redefining authentication through intelligent biometric sensing."*
-
-</div>
-
 ### Research Domains
-
-* Contactless Biometrics
 * Radar Signal Processing
 * Artificial Intelligence
 * Deep Learning
