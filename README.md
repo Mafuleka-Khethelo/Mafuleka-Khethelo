@@ -1,220 +1,127 @@
 <div align="center">
 
-# Lungelo Mafuleka Khethelo
+# 👋 Hi, I'm Lungelo Mafuleka Khethelo
 
-### Artificial Intelligence Researcher • Software Engineer • Computer Science Student • Building the Future of Biometric Security
+### AI Engineer • Machine Learning Enthusiast • Software Engineer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1200&color=00C2FF&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+Researcher;Creator+of+PulseLock;Machine+Learning+Enthusiast;Java+%7C+Python+Developer;Researching+Next-Generation+Biometric+Authentication;Building+Technology+That+Makes+an+Impact" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1200&color=00C2FF&center=true&vCenter=true&width=700&lines=Building+AI+Solutions;Machine+Learning+%7C+Software+Engineering;Python+%7C+Java+Developer;Continuous+Learner;Turning+Ideas+into+Technology" />
 
-<br>
-
-![](https://komarev.com/ghpvc/?username=Mafuleka-Khethelo\&style=for-the-badge\&color=0e75b6)
+![](https://komarev.com/ghpvc/?username=Mafuleka-Khethelo&style=for-the-badge&color=0e75b6)
 
 </div>
 
 ---
 
-# About Me
+# 🚀 About Me
 
-I am a **final-year Computer Science student** with a deep passion for **Artificial Intelligence, Machine Learning, Biometrics, Cybersecurity, and Software Engineering**.
+🎓 Final-year Diploma in Computer Science student at **Tshwane University of Technology**
 
-My goal is to bridge the gap between **academic research and real-world innovation** by building intelligent systems that improve security and everyday life.
+🤖 Currently completing a **6-month Artificial Intelligence Work-Integrated Learning Programme**
 
-I am currently developing **PulseLock**, a next-generation contactless biometric authentication 
+💡 Passionate about
 
----
+- Artificial Intelligence
+- Machine Learning
+- Software Engineering
+- Data Science
+- Cybersecurity
+- Research & Innovation
 
-# Current Focus
-
-```text
-Artificial Intelligence
-Machine Learning
-Deep Learning
-Biometric Authentication
-Signal Processing
-Cybersecurity
-Research & Innovation
-Enterprise Software Development
-```
+I enjoy building software that solves real-world problems while continuously improving my skills through projects, certifications and research.
 
 ---
 
-# Flagship Project
+# 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,kotlin,javascript,html,css,mysql,git,github,vscode"/>
+
+</p>
+
+### AI & Machine Learning
+
+- Machine Learning
+- Deep Learning
+- Data Analysis
+- Scikit-Learn
+- PyTorch
+- Pandas
+- NumPy
+
+### Enterprise Development
+
+- Java EE
+- Servlets
+- JSP
+- Enterprise JavaBeans (EJB)
+- REST APIs
+
+---
+
+# 📌 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 🤖 AI Roommate Finder | Intelligent roommate recommendation platform |
+| 🧠 PulseLock Research | AI-driven contactless biometric authentication |
+| ☕ Java EE Applications | Enterprise web applications |
+| 📊 Python & Machine Learning | Data analysis and machine learning projects |
+
+---
+
+# 🏆 Achievements
+
+🥇 Huawei ICT Competition — **Top 20**
+
+🥇 Falling Walls Lab South Africa — **Top 20 Innovator**
+
+🎓 AI Work-Integrated Learning Programme
+
+📚 IBM & Kaggle Certified Learner
+
+---
+
+# 📈 GitHub Stats
 
 <div align="center">
 
-### Research Domains
-* Radar Signal Processing
-* Artificial Intelligence
-* Deep Learning
-* Physiological Signal Analysis
-* Security & Privacy
-* Human Authentication Systems
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mafuleka-Khethelo&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-# Technology Stack
-
-## Programming Languages
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,python,kotlin,javascript,html,css,mysql"/>
-
-</p>
-
----
-
-## Artificial Intelligence & Data Science
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
-
-</p>
-
-* Machine Learning
-* Data Analysis
-* Feature Engineering
-* Pattern Recognition
-* Data Preprocessing
-* Research Analytics
-
----
-
-## Backend Development
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,spring"/>
-
-</p>
-
-* Java EE
-* Servlets
-* JSP
-* Enterprise JavaBeans (EJB)
-* RESTful APIs
-* MVC Architecture
-
----
-
-## Databases
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=mysql,sqlite"/>
-
-</p>
-
-* Oracle SQL
-* Derby Database
-* Database Design
-* Query Optimization
-
----
-
-## Development Tools
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman"/>
-
-</p>
-
----
-
-# GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mafuleka-Khethelo&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Mafuleka-Khethelo&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Mafuleka-Khethelo&theme=tokyonight&hide_border=true"/>
 
 </div>
 
-<br>
-
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mafuleka-Khethelo&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mafuleka-Khethelo&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# Contribution Activity
+# 🌍 Connect With Me
 
-<div align="center">
+<p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mafuleka-Khethelo&theme=tokyo-night&hide_border=true"/>
+<a href="mailto:mafulekakhethelo@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-</div>
+<a href="https://www.linkedin.com/in/khethelo-mafuleka-0b5196242/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
----
+<a href="https://github.com/Mafuleka-Khethelo">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
-# Featured Projects
-
-| Project                             | Description                                       | Status    |
-| ----------------------------------- | ------------------------------------------------- | --------- |
-| **PulseLock**                       | AI-powered contactless biometric authentication   | Research  |
-| **AI Roommate Finder**              | Intelligent roommate recommendation platform      | Completed |
-| **Java EE Enterprise Applications** | Enterprise web systems using Servlets, JSP & EJB  | Completed |
-| **Python Data Analytics**           | Data analysis and visualization projects          | Ongoing   |
-| **Android Development**             | Mobile applications with Kotlin & Jetpack Compose | Ongoing   |
-
----
-
-# Research Interests
-
-* Artificial Intelligence
-* Machine Learning
-* Biometrics
-* Contactless Authentication
-* Signal Processing
-* Cybersecurity
-* Human Computer Interaction
-* Healthcare AI
-* Intelligent Security Systems
-
----
-
-
-# Professional Goals
-
-* Publish research in Artificial Intelligence and Biometrics
-* Build PulseLock into a production-ready authentication platform
-* Contribute to open-source AI projects
-* Advance secure and intelligent authentication technologies
-* Pursue innovation that creates real-world impact
-
----
-
-# Connect
-
-### Email
-
-```text
-mkgithubcom@gmail.com
-```
-
-### GitHub
-
-```text
-https://github.com/Mafuleka-Khethelo
-```
-
-### LinkedIn
-
-```text
-https://www.linkedin.com/in/khethelo-mafuleka-0b5196242/
-```
+</p>
 
 ---
 
 <div align="center">
 
-## Building the future through Artificial Intelligence, research, and software engineering.
-
-### Every line of code is a step toward innovation.
+### *"Building intelligent software today for the challenges of tomorrow."*
 
 </div>
